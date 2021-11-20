@@ -1,16 +1,18 @@
 
 ### <h1>Hola comunidad,Bienvenid@ a mi perfil 👋</h1> 
-<p>Desarrollando desde  <img  widht="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el 🌎<p>
+<p>Desarrollando desde  <img  widht="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el mundo🌎<p>
   <span>
-    - LENGUAJES DE PROGRAMACION:JAVASCRIPT, TYPESCRIPT
+    🛠Mis herramientas para desarrollar son:
+    <br>
+    - LENGUAJES DE PROGRAMACION: JAVASCRIPT, TYPESCRIPT
      <br>
-    -TECNOLOGIAS WEB:HTML5, CSS3 ,NODE.JS
+    -TECNOLOGIAS WEB: HTML5, CSS3 ,NODE.JS
      <br>
     -BASE DE DATOS: POSTGRESSQL,SEQUELIZE. 
     <br>
     -FRAMEWORKS: REACT.JS, REDUX,EXPRESS.
     <br>
-    -GESTIÓN DE PROYECTOS:JIRA-SLACK 
+    -GESTIÓN DE PROYECTOS: JIRA-SLACK 
     <br>
     -CONTROL DE VERSION: GIT , GITHUB
   </span>
