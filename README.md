@@ -1,6 +1,6 @@
 
 ### <h1>Hola comunidad,Bienvenid@ a mi perfil 👋</h1> 
-<p>Desarrollando desde  <img  widht="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el mundo🌎<p>
+<h3>Desarrollando desde  <img  widht="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el mundo🌎</h3>
   <span>
     🛠Mis herramientas para desarrollar son:
     <br>
@@ -20,15 +20,9 @@
 **DeeRo-dev/DeeRo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 Actualmente estoy aprendiendo a aprender
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-🌱 Actualmente estoy aprendiendo a aprender
+📫 How to reach me: cabrera.derek.adriel@gmail.com
+🌱 Actualmente estoy aprendiendo React Native.
+🔭 Actualmente estoy trabajando en el desarrollo de una plataforma web , la cual brinda cursos orientado a programacion para niños.
+📌https://www.linkedin.com/in/derek-cabrera-fullstack/
 
