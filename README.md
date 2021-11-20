@@ -1,7 +1,7 @@
 
 ### <h1>Hola comunidad,Bienvenid@ a mi perfil 👋</h1> 
-<p>Desarrollando desde 🇦🇷 Argentina hacia el 🌎<p>
-  <span>
+<p>Desarrollando desde <img  widht="50" height="50" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el 🌎<p>
+  <-span>
     -  LENGUAJES DE PROGRAMACION:
           JAVASCRIPT, TYPESCRIPT
     -TECNOLOGIAS WEB:
@@ -14,7 +14,7 @@
           JIRA-SLACK
     -CONTROL DE VERSION:
           GIT , GITHUB
-  </span>
+  </span->
 <!--
 **DeeRo-dev/DeeRo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
