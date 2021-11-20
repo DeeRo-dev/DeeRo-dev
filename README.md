@@ -1,29 +1,29 @@
 
 ### <h1>Hola comunidad,Bienvenid@ a mi perfil 👋</h1> 
-<p>Desarrollando desde  <img  widht="10" height="10" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el 🌎<p>
+<p>Desarrollando desde  <img  widht="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el 🌎<p>
   <span>
     -  LENGUAJES DE PROGRAMACION:
-    <br>
+    
           JAVASCRIPT, TYPESCRIPT
      <br>
     -TECNOLOGIAS WEB:
-     <br>
+     
           HTML5, CSS3 ,NODE.JS
      <br>
     -BASE DE DATOS: 
-    <br>
+    
           POSTGRESSQL,SEQUELIZE. 
     <br>
     -FRAMEWORKS: 
-    <br>
+    
           REACT.JS, REDUX,EXPRESS.
     <br>
     -GESTIÓN DE PROYECTOS: 
-    <br>
+    <
           JIRA-SLACK 
     <br>
     -CONTROL DE VERSION: 
-    <br>
+    
           GIT , GITHUB
   </span>
 <!--
