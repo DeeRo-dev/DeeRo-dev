@@ -1,20 +1,31 @@
 
 ### <h1>Hola comunidad,Bienvenid@ a mi perfil 👋</h1> 
-<p>Desarrollando desde <img  widht="50" height="50" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el 🌎<p>
-  <-span>
+<p>Desarrollando desde  <img  widht="10" height="10" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el 🌎<p>
+  <span>
     -  LENGUAJES DE PROGRAMACION:
+    <br>
           JAVASCRIPT, TYPESCRIPT
+     <br>
     -TECNOLOGIAS WEB:
+     <br>
           HTML5, CSS3 ,NODE.JS
-    -BASE DE DATOS:
-          POSTGRESSQL,SEQUELIZE.
-    -FRAMEWORKS:
+     <br>
+    -BASE DE DATOS: 
+    <br>
+          POSTGRESSQL,SEQUELIZE. 
+    <br>
+    -FRAMEWORKS: 
+    <br>
           REACT.JS, REDUX,EXPRESS.
-    -GESTIÓN DE PROYECTOS:
-          JIRA-SLACK
-    -CONTROL DE VERSION:
+    <br>
+    -GESTIÓN DE PROYECTOS: 
+    <br>
+          JIRA-SLACK 
+    <br>
+    -CONTROL DE VERSION: 
+    <br>
           GIT , GITHUB
-  </span->
+  </span>
 <!--
 **DeeRo-dev/DeeRo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
