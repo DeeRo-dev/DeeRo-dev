@@ -1,6 +1,6 @@
 
 ### <h1>Hola comunidad,Bienvenid@ a mi perfil 👋</h1> 
-<p>Desarrollando desde 🌎🇦🇷 Argentina hacia el 🌎<p>
+<p>Desarrollando desde 🇦🇷 Argentina hacia el 🌎<p>
   <span>
     -  LENGUAJES DE PROGRAMACION:
           JAVASCRIPT, TYPESCRIPT
