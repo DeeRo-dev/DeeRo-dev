@@ -16,13 +16,14 @@
     <br>
     -CONTROL DE VERSION: GIT , GITHUB
   </span>
+  📫 How to reach me: cabrera.derek.adriel@gmail.com
+🌱 Actualmente estoy aprendiendo React Native.
+🔭 Actualmente estoy trabajando en el desarrollo de una plataforma web , la cual brinda cursos orientado a programacion para niños.
+📌https://www.linkedin.com/in/derek-cabrera-fullstack/
+
 <!--
 **DeeRo-dev/DeeRo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-📫 How to reach me: cabrera.derek.adriel@gmail.com
-🌱 Actualmente estoy aprendiendo React Native.
-🔭 Actualmente estoy trabajando en el desarrollo de una plataforma web , la cual brinda cursos orientado a programacion para niños.
-📌https://www.linkedin.com/in/derek-cabrera-fullstack/
 
