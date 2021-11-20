@@ -1,4 +1,4 @@
-<img widht="300" height="200" alt="no anda" src="https://p4.wallpaperbetter.com/wallpaper/971/66/325/simple-background-quote-minimalism-text-world-hello-world-8-bit-pixelated-wallpaper-preview.jpg">
+<img widht="100%" height="200" alt="no anda" src="https://p4.wallpaperbetter.com/wallpaper/971/66/325/simple-background-quote-minimalism-text-world-hello-world-8-bit-pixelated-wallpaper-preview.jpg">
 ### <h1>Bienvenid@ a mi perfil 👋</h1> 
 
 
