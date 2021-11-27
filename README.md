@@ -7,6 +7,23 @@
 🔭 Actualmente estoy trabajando en el desarrollo de una plataforma web , la cual brinda cursos orientado a programacion para niños.     <br>
 📌https://www.linkedin.com/in/derek-cabrera-fullstack/     <br>
  </p> 
+ 
+ 
+ [PROYECTO REALIZADO]
+ Aplicación de Perros
+
+
+Descripción del proyectoAplicación en la cual se puedan ver distintas razas de perro junto con información relevante de las mismas utilizando la api externa (the dog api) y a partir de ella poder, entre otras cosas:
+Buscar perros
+Filtrarlos / Ordenarlos
+Agregar nuevos perros
+Las tecnologías con las cual se desarrollo fueron: Html5, Css3,JavaScript , React, Redux, Node y Sequelize.
+<img  widht="20" height="20" src="file:///C:/Users/Herre/Desktop/appDog2.jpeg">
+ <img  widht="20" height="20" src="file:///C:/Users/Herre/Desktop/appDog.jpeg">
+ <img  widht="20" height="20" src="file:///C:/Users/Herre/Desktop/appDog4.jpeg">
+ <img  widht="20" height="20" src="file:///C:/Users/Herre/Desktop/appDog3.jpeg">
+ 
+ 
   <span>
     🛠Mis herramientas para desarrollar son:
     <br>
