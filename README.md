@@ -19,8 +19,9 @@ Filtrarlos / Ordenarlos
 Agregar nuevos perros
 Las tecnologías con las cual se desarrollo fueron: Html5, Css3,JavaScript , React, Redux, Node y Sequelize.
 
- <img  widht="200" height="200" src="https://i.postimg.cc/bJcx91QM/appDog2.jpg"><img  widht="200" height="200" src="https://i.postimg.cc/kgGvJJJj/appDog.jpg">
-   <img  widht="200" height="200" src="https://i.postimg.cc/13dc4k4y/appDog4.jpg"> <img  widht="200" height="200" src="https://i.postimg.cc/KYg7T0gB/appDog3.jpg">
+ <img  widht="200" height="200" src="https://i.postimg.cc/bJcx91QM/appDog2.jpg"> <img  widht="200" height="200" src="https://i.postimg.cc/KYg7T0gB/appDog3.jpg"> <br>
+
+ <img  widht="200" height="200" src="https://i.postimg.cc/kgGvJJJj/appDog.jpg"> <img  widht="200" height="200" src="https://i.postimg.cc/13dc4k4y/appDog4.jpg">
     
     
   
