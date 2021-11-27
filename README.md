@@ -19,12 +19,12 @@ Filtrarlos / Ordenarlos
 Agregar nuevos perros
 Las tecnologías con las cual se desarrollo fueron: Html5, Css3,JavaScript , React, Redux, Node y Sequelize.
 
- <div>
+ 
  [![appDog.jpg](https://i.postimg.cc/kgGvJJJj/appDog.jpg)](https://postimg.cc/rD6rgLtW)
  [![appDog2.jpg](https://i.postimg.cc/bJcx91QM/appDog2.jpg)](https://postimg.cc/v1hxQg2L)
  [![appDog4.jpg](https://i.postimg.cc/13dc4k4y/appDog4.jpg)](https://postimg.cc/jDzJFkz1)
  
-</div>
+
   <span>
     🛠Mis herramientas para desarrollar son:
     <br>
