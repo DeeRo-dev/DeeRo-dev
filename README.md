@@ -17,7 +17,7 @@ Descripción del proyectoAplicación en la cual se puedan ver distintas razas de
 Buscar perros
 Filtrarlos / Ordenarlos
 Agregar nuevos perros
-Las tecnologías con las cual se desarrollo fueron: Html5, Css3,JavaScript , React, Redux, Node y Sequelize.
+Las tecnologías con las cual se desarrollo fueron: Html5, Css3,JavaScript , React, Redux, Node y Sequelize, Postgresql.
 
  <img  widht="200" height="200" src="https://i.postimg.cc/bJcx91QM/appDog2.jpg"> <img  widht="200" height="200" src="https://i.postimg.cc/KYg7T0gB/appDog3.jpg"> <br>
 
