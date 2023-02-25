@@ -1,10 +1,10 @@
 
-### <h1>Hola comunidad,Bienvenid@ a mi perfil 👋</h1> 
-<h3>Desarrollando desde  <img  widht="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina hacia el mundo🌎</h3>
+### <h1>Hola comunidad👋</h1> 
+<h3>Desarrollando desde  <img  widht="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e6-1f1f7.png"> Argentina🌎</h3>
  <p> 
  📫 Mi contacto: cabrera.derek.adriel@gmail.com     <br>
-🌱Me encuentro aprendiendo React Native.     <br>
-🔭 Actualmente estoy trabajando en el desarrollo de una plataforma web , la cual brinda cursos orientado a programacion para niños.     <br>
+🌱Me encuentro buscando nuevas oportunidades para sumarme a un proyecto desafiante.     <br>
+🔭 Actualmente mi modalidad de trabajo es Freelance.     <br>
 📌https://www.linkedin.com/in/derek-cabrera-fullstack/     <br>
  </p> 
  
