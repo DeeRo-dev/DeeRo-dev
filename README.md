@@ -24,5 +24,6 @@
         </a>
      </div>
  
-  
+  <div aling="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeRo-dev&theme=dark&locale=es)](https://git.io/streak-stats)
+   </div>
