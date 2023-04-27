@@ -3,6 +3,6 @@
 <>
     <div  id="header" aling="center"> 
         <h1 aling="center">Hola, me llamo Derek</h1>
-        <h3 aling="center">Soy desarrollador Front-end, y me apasio</h3>
+        <h3 aling="center">Soy un desarrollador Front End apasionado por crear soluciones digitales atractivas y efectivas para los usuarios. He tenido la oportunidad de trabajar en diversos proyectos que me han permitido adquirir habilidades en diferentes áreas, como el diseño de interfaces de usuario, la programación en HTML, CSS y JavaScript, la integración con diferentes tecnologías y la optimización de sitios web para mejorar el rendimiento y la accesibilidad.</h3>
      </div>
 </>
