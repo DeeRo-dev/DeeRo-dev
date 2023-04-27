@@ -23,5 +23,4 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="98px" />
         </a>
      </div>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeRo-dev&theme=dark&locale=es)](https://git.io/streak-stats)
-
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeRo-dev&theme=dark&locale=es&card_width=537)](https://git.io/streak-stats)
