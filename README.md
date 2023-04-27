@@ -1,4 +1,4 @@
- <img  widht="100%" height="200" src="https://media.licdn.com/dms/image/C4D16AQHUiFgcVsH3mw/profile-displaybackgroundimage-shrink_350_1400/0/1668382840054?e=1687996800&v=beta&t=uTsIlrD79Jdep9RcqjY9CQSAeU6xg9tqU3RSvNpdT6g">
+ <img  widht=100% height="200" src="https://media.licdn.com/dms/image/C4D16AQHUiFgcVsH3mw/profile-displaybackgroundimage-shrink_350_1400/0/1668382840054?e=1687996800&v=beta&t=uTsIlrD79Jdep9RcqjY9CQSAeU6xg9tqU3RSvNpdT6g">
 #
 
 #### Hola, me llamo Derek
