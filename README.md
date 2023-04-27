@@ -3,6 +3,7 @@
     <div  widht="100" id="header" aling="center"> 
         <h1 aling="center">Hola, me llamo Derek</h1>
         <h3 aling="center">Soy un desarrollador Front End apasionado por crear soluciones digitales atractivas y efectivas para los usuarios. He tenido la oportunidad de trabajar en diversos proyectos que me han permitido adquirir habilidades en diferentes áreas, como el diseño de interfaces de usuario, la programación en HTML, CSS y JavaScript, la integración con diferentes tecnologías y la optimización de sitios web para mejorar el rendimiento y la accesibilidad.</h3>
+ <span>Herramientas de trabajo</span>
  <div style="display: inline">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40" />
