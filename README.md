@@ -5,5 +5,12 @@
         <h3 aling="center">Soy un desarrollador Front End apasionado por crear soluciones digitales atractivas y efectivas para los usuarios. He tenido la oportunidad de trabajar en diversos proyectos que me han permitido adquirir habilidades en diferentes áreas, como el diseño de interfaces de usuario, la programación en HTML, CSS y JavaScript, la integración con diferentes tecnologías y la optimización de sitios web para mejorar el rendimiento y la accesibilidad.</h3>
      </div>
     <h3> Contacto</h3>
-   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="78px" />](mailto:cabrera.derek.adriel@gmail.com) 
-   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="98px" />](https://www.linkedin.com/in/derek-cabrera-fullstack/))
+  <div  id="header" aling="center"> 
+        <a href="mailto:cabrera.derek.adriel@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="78px" />
+        </a>
+        <a href="https://www.linkedin.com/in/derek-cabrera-fullstack/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="98px" />
+        </a>
+     </div>
+ 
