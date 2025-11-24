@@ -18,14 +18,15 @@ He liderado el desarrollo frontend de sistemas CRM y plataformas de gestión, tr
 
 ## 🛠️ Stack Tecnológico
 
-### **Frontend & Frameworks**
+### Frontend & Frameworks
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="40" />
 </div>
+
 
 ### **Backend & Bases de Datos**
 <div>
